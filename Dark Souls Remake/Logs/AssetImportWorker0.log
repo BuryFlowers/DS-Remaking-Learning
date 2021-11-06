@@ -1,0 +1,1319 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.11f1c1 (77449f27ef9b) revision 7816351'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1288; Version 2009; 64bit' Language: 'zh' Physical Memory: 16244 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity\2020.3.11f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Dark Souls Remake
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63214
+Successfully changed project path to: E:/Dark Souls Remake
+E:/Dark Souls Remake
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1c1 (77449f27ef9b)
+[Subsystems] Discovering subsystems at path E:/Unity/2020.3.11f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Dark Souls Remake/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   30.0.14.7212
+Initialize mono
+Mono path[0] = 'E:/Unity/2020.3.11f1c1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/2020.3.11f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/2020.3.11f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56192
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/2020.3.11f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/Unity/2020.3.11f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: E:/Unity/2020.3.11f1c1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002831 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 30.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.507 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004869 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.214 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1387 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.1 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1821.
+Total: 2.633600 ms (FindLiveObjects: 0.182800 ms CreateObjectMapping: 0.058800 ms MarkObjects: 2.287900 ms  DeleteObjects: 0.102600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1aab8dd1d6e90852ebd9a80d51c9134') in 0.047476 seconds
+  Import took 0.050191 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005368 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.070 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.9 MB.
+System memory in use after: 67.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1824.
+Total: 2.493800 ms (FindLiveObjects: 0.156600 ms CreateObjectMapping: 0.040500 ms MarkObjects: 2.249000 ms  DeleteObjects: 0.046600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.954698 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a49e08a93704e09253b4bf7da79017f') in 0.004637 seconds
+  Import took 0.006948 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010245 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.191 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.9 MB.
+System memory in use after: 67.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1827.
+Total: 2.256300 ms (FindLiveObjects: 0.144400 ms CreateObjectMapping: 0.045300 ms MarkObjects: 2.015100 ms  DeleteObjects: 0.050100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.337 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1830.
+Total: 2.995700 ms (FindLiveObjects: 0.149000 ms CreateObjectMapping: 0.047000 ms MarkObjects: 2.761700 ms  DeleteObjects: 0.036300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 283.466078 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c265a89d9b66d872747918339e7d1d58') in 0.005564 seconds
+  Import took 0.009410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001219 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c265a89d9b66d872747918339e7d1d58') in 0.003024 seconds
+  Import took 0.006267 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008620 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.113 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1833.
+Total: 2.211100 ms (FindLiveObjects: 0.177100 ms CreateObjectMapping: 0.062100 ms MarkObjects: 1.941100 ms  DeleteObjects: 0.029100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 292.162657 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a866e3a5004c6e820b6da60b76c4ac') in 0.008299 seconds
+  Import took 0.011487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 252.512781 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e83b182eeb4acdad0c3bc123b1d7cbea') in 0.003059 seconds
+  Import took 0.007041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.212688 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f4213c8a40453f37ea280154e3217e') in 0.002878 seconds
+  Import took 0.006013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.492475 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd34963ed418ee272c76a1159d085b5da') in 0.003530 seconds
+  Import took 0.009218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.203471 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebabe8fe4fa0a12a684126a6798c5c5d') in 0.003271 seconds
+  Import took 0.008257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.804968 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28ae95f933c1401df89b45a33eaa0508') in 0.002711 seconds
+  Import took 0.005585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.218371 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc09639dc7e5aade387a7b327881e274') in 0.003429 seconds
+  Import took 0.006061 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005081 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1836.
+Total: 2.114900 ms (FindLiveObjects: 0.170300 ms CreateObjectMapping: 0.050700 ms MarkObjects: 1.871600 ms  DeleteObjects: 0.021300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.052958 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e5effef9f2ed69f9cab6575dc7174ba') in 0.005084 seconds
+  Import took 0.007817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.882180 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e5effef9f2ed69f9cab6575dc7174ba') in 0.002897 seconds
+  Import took 0.005325 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006797 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1839.
+Total: 2.597500 ms (FindLiveObjects: 0.194900 ms CreateObjectMapping: 0.051500 ms MarkObjects: 2.321400 ms  DeleteObjects: 0.027700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.112 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1842.
+Total: 2.254600 ms (FindLiveObjects: 0.218400 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.968800 ms  DeleteObjects: 0.021100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004914 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.029 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1845.
+Total: 2.095300 ms (FindLiveObjects: 0.146900 ms CreateObjectMapping: 0.036300 ms MarkObjects: 1.895300 ms  DeleteObjects: 0.016000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006648 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1848.
+Total: 3.593600 ms (FindLiveObjects: 1.111700 ms CreateObjectMapping: 0.197200 ms MarkObjects: 2.261100 ms  DeleteObjects: 0.019700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006834 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.248 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1851.
+Total: 1.998800 ms (FindLiveObjects: 0.169700 ms CreateObjectMapping: 0.040800 ms MarkObjects: 1.770400 ms  DeleteObjects: 0.016900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005295 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.091 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1854.
+Total: 2.419200 ms (FindLiveObjects: 0.172700 ms CreateObjectMapping: 0.041200 ms MarkObjects: 2.183600 ms  DeleteObjects: 0.020600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.095 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1857.
+Total: 2.334700 ms (FindLiveObjects: 0.155900 ms CreateObjectMapping: 0.042400 ms MarkObjects: 2.117300 ms  DeleteObjects: 0.018200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007310 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.058 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1860.
+Total: 1.894200 ms (FindLiveObjects: 0.146300 ms CreateObjectMapping: 0.046100 ms MarkObjects: 1.682700 ms  DeleteObjects: 0.018000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005037 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.075 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1863.
+Total: 2.162900 ms (FindLiveObjects: 0.202000 ms CreateObjectMapping: 0.058400 ms MarkObjects: 1.880700 ms  DeleteObjects: 0.020500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1866.
+Total: 3.111700 ms (FindLiveObjects: 0.188500 ms CreateObjectMapping: 0.057000 ms MarkObjects: 2.840700 ms  DeleteObjects: 0.024100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1316.770447 seconds.
+  path: Packages/com.unity.ide.rider
+  artifactKey: Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.rider using Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d02623396ab86594f3405d33b9714f') in 0.005583 seconds
+  Import took 0.009268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001426 seconds.
+  path: Packages/com.unity.ide.rider
+  artifactKey: Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.rider using Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d02623396ab86594f3405d33b9714f') in 0.004146 seconds
+  Import took 0.007395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.389099 seconds.
+  path: Packages/com.unity.nuget.newtonsoft-json
+  artifactKey: Guid(7e7d2b05dd6ea119ce16861d56d99a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.nuget.newtonsoft-json using Guid(7e7d2b05dd6ea119ce16861d56d99a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4b8fa352b752a3e644067b33aa63ec') in 0.004537 seconds
+  Import took 0.007542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001484 seconds.
+  path: Packages/com.unity.nuget.newtonsoft-json
+  artifactKey: Guid(7e7d2b05dd6ea119ce16861d56d99a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.nuget.newtonsoft-json using Guid(7e7d2b05dd6ea119ce16861d56d99a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4b8fa352b752a3e644067b33aa63ec') in 0.003477 seconds
+  Import took 0.006208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.328244 seconds.
+  path: Packages/com.unity.test-framework
+  artifactKey: Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.test-framework using Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b3fecfc8d873fe96244889d860a7252') in 0.004190 seconds
+  Import took 0.007458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001108 seconds.
+  path: Packages/com.unity.test-framework
+  artifactKey: Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.test-framework using Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b3fecfc8d873fe96244889d860a7252') in 0.004040 seconds
+  Import took 0.006699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.244991 seconds.
+  path: Packages/com.unity.textmeshpro
+  artifactKey: Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro using Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169a733f15e62358392572f7d3dbae7f') in 0.003031 seconds
+  Import took 0.006987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.327205 seconds.
+  path: Packages/com.unity.ugui
+  artifactKey: Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui using Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be8eef517426cf4e5d1ef023f0f7cab') in 0.004203 seconds
+  Import took 0.007312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000719 seconds.
+  path: Packages/com.unity.ugui
+  artifactKey: Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui using Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be8eef517426cf4e5d1ef023f0f7cab') in 0.004060 seconds
+  Import took 0.007329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.948749 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(1caa8d533ba79264ab054c7fb7bfafec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(1caa8d533ba79264ab054c7fb7bfafec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9976d69465f8b806e7530c44c58c0c2c') in 0.003000 seconds
+  Import took 0.007084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.609303 seconds.
+  path: Assets/Textures/brick_pavement_0100_02_preview.jpg
+  artifactKey: Guid(178d0710497a59646b3c5aa1aab5c814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/brick_pavement_0100_02_preview.jpg using Guid(178d0710497a59646b3c5aa1aab5c814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92890c495b5b48eb248d7f631cafa2cb') in 0.115911 seconds
+  Import took 0.119778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.875567 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(0f67df2ce2085cb47b7c83c60f203669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(0f67df2ce2085cb47b7c83c60f203669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f54076aa68de96b05861b0b4ae97bd') in 0.003169 seconds
+  Import took 0.006597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.051579 seconds.
+  path: Assets/Models
+  artifactKey: Guid(040cbf8678a0c0d43b184a2600582f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(040cbf8678a0c0d43b184a2600582f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628a4e9a9a535f1eb679bfa568e7b6bc') in 0.004379 seconds
+  Import took 0.007775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.664067 seconds.
+  path: Assets/Models/YBot
+  artifactKey: Guid(11d21c8acadf15c4799062685a8c42a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot using Guid(11d21c8acadf15c4799062685a8c42a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eaa69c2019cf8ebd677eb5567afeddc') in 0.005274 seconds
+  Import took 0.008268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042512 seconds.
+  path: Assets/Models/YBot/ybot.fbx
+  artifactKey: Guid(2f9d958fbcd96e44ca35a77a15e3187a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/ybot.fbx using Guid(2f9d958fbcd96e44ca35a77a15e3187a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd618fff163c2b0768ed3897200a0c32') in 0.185010 seconds
+  Import took 0.188582 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004333 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.9 MB.
+System memory in use after: 84.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1881.
+Total: 2.266600 ms (FindLiveObjects: 0.158000 ms CreateObjectMapping: 0.039300 ms MarkObjects: 2.031600 ms  DeleteObjects: 0.036700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.259210 seconds.
+  path: Assets/Models/YBot/Localmotion
+  artifactKey: Guid(b6f4a31b64a0031488ced59ea8b79f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/Localmotion using Guid(b6f4a31b64a0031488ced59ea8b79f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4280d37f3735a8f5bc93f6d3aa2508c3') in 0.007528 seconds
+  Import took 0.010979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001356 seconds.
+  path: Assets/Models/YBot/Localmotion
+  artifactKey: Guid(b6f4a31b64a0031488ced59ea8b79f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/Localmotion using Guid(b6f4a31b64a0031488ced59ea8b79f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4280d37f3735a8f5bc93f6d3aa2508c3') in 0.002904 seconds
+  Import took 0.005864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.525581 seconds.
+  path: Assets/Models/manModel
+  artifactKey: Guid(0c8a9a43ba8624942ac7c876ef07056f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/manModel using Guid(0c8a9a43ba8624942ac7c876ef07056f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e74d36997b6fc0fbd54f40107970ff7d') in 0.003294 seconds
+  Import took 0.006681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034468 seconds.
+  path: Assets/Models/manModel/manModel.export2.fbx
+  artifactKey: Guid(5a381a24bdd577b488da07a68787f65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/manModel/manModel.export2.fbx using Guid(5a381a24bdd577b488da07a68787f65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '257f4ff10378ee78adc66106e652d091') in 0.394244 seconds
+  Import took 0.398828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Models/manModel/manModel_body_displ.png
+  artifactKey: Guid(ec634cb3bc0c8334b840a34fd2e1d866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/manModel/manModel_body_displ.png using Guid(ec634cb3bc0c8334b840a34fd2e1d866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '780b0eb03df29b9daa465e13a5da98fa') in 0.019342 seconds
+  Import took 0.021897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Models/manModel/manModel_body_derm.png
+  artifactKey: Guid(645351dd86d7b0f45b65331afa4940c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/manModel/manModel_body_derm.png using Guid(645351dd86d7b0f45b65331afa4940c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffda5978815c85c90ad3fd6236fa08a6') in 0.012318 seconds
+  Import took 0.015024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.537358 seconds.
+  path: Assets/Models/YBot/Materials
+  artifactKey: Guid(d7dbdf21c5ad4014aa8f466c70d940fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/Materials using Guid(d7dbdf21c5ad4014aa8f466c70d940fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e66a07867df24d006e8fac8fbf8e670') in 0.004411 seconds
+  Import took 0.007879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002992 seconds.
+  path: Assets/Models/YBot/Materials
+  artifactKey: Guid(d7dbdf21c5ad4014aa8f466c70d940fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/Materials using Guid(d7dbdf21c5ad4014aa8f466c70d940fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e66a07867df24d006e8fac8fbf8e670') in 0.004426 seconds
+  Import took 0.007927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.497148 seconds.
+  path: Assets/Models/YBot/SwordAndShield
+  artifactKey: Guid(5bf7aa0477999e54f95682387a5f3638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield using Guid(5bf7aa0477999e54f95682387a5f3638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9566a26abb07c69216d95a514082eee4') in 0.003770 seconds
+  Import took 0.007012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.352800 seconds.
+  path: Assets/Models/YBot/SwordAndShield/draw sword 1.fbx
+  artifactKey: Guid(abbf3c0cbfe29484986ba887a54f3982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/draw sword 1.fbx using Guid(abbf3c0cbfe29484986ba887a54f3982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f49945a8b3af2e5da00cfd0f537dbd') in 0.011552 seconds
+  Import took 0.016117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield run (2).fbx
+  artifactKey: Guid(ca128265afc9a4e4bb61b76cbf43939a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield run (2).fbx using Guid(ca128265afc9a4e4bb61b76cbf43939a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f5c7726ae99d3d9be23d9f9dcb2c3a') in 0.008020 seconds
+  Import took 0.012277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield crouch block (2).fbx
+  artifactKey: Guid(e702d0f22505b914394449145e1988cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield crouch block (2).fbx using Guid(e702d0f22505b914394449145e1988cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97008ca8785ffefc3b6d5bae3d4656de') in 0.008389 seconds
+  Import took 0.012104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield idle (4).fbx
+  artifactKey: Guid(504d9d0fcc0cf8541a2bd1f5ba2d14c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield idle (4).fbx using Guid(504d9d0fcc0cf8541a2bd1f5ba2d14c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770c13f4b662de58eb1689268f6a0e11') in 0.008011 seconds
+  Import took 0.012523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield turn (2).fbx
+  artifactKey: Guid(e7023506249d8bf4f8088f610c85d221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield turn (2).fbx using Guid(e7023506249d8bf4f8088f610c85d221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba1fbc63cf9060bb308037f261d0c05') in 0.007539 seconds
+  Import took 0.010708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield crouch.fbx
+  artifactKey: Guid(d96b110384f9ba846bdf9ba275f58e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield crouch.fbx using Guid(d96b110384f9ba846bdf9ba275f58e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5056fa1d875a01eaa4eb1991615b5627') in 0.008016 seconds
+  Import took 0.011581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield slash (4).fbx
+  artifactKey: Guid(2591c8ca644eb1b4f921f7146c88d8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield slash (4).fbx using Guid(2591c8ca644eb1b4f921f7146c88d8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4cf4fa79062c9be3523816ea5e1f4a') in 0.009303 seconds
+  Import took 0.012325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield strafe (4).fbx
+  artifactKey: Guid(1a691e0ad9c30f249905effc398e6372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield strafe (4).fbx using Guid(1a691e0ad9c30f249905effc398e6372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ff702ae5b24531340020b10d211cb5') in 0.008121 seconds
+  Import took 0.012240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield slash (2).fbx
+  artifactKey: Guid(7c3ac43c854208542b73444c482c0712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield slash (2).fbx using Guid(7c3ac43c854208542b73444c482c0712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175fc3ac91c9aa81719e970fd349a899') in 0.009441 seconds
+  Import took 0.012779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield casting.fbx
+  artifactKey: Guid(9a647c3952ba09046b48e2da6d7aa23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield casting.fbx using Guid(9a647c3952ba09046b48e2da6d7aa23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f4cc1ee81e6c8fd193479516bd5b035') in 0.008393 seconds
+  Import took 0.012970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield slash (5).fbx
+  artifactKey: Guid(b49ef66ffa6759d4e950c0c23cd5b2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield slash (5).fbx using Guid(b49ef66ffa6759d4e950c0c23cd5b2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb33e7451ebabc6adb99c5e5e8b6b285') in 0.007846 seconds
+  Import took 0.012134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield jump (2).fbx
+  artifactKey: Guid(82f25ce50478c2a469caf0aedf50271d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield jump (2).fbx using Guid(82f25ce50478c2a469caf0aedf50271d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23457bb5f2bf430bf545173e49ea8dba') in 0.008220 seconds
+  Import took 0.014051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield attack (2).fbx
+  artifactKey: Guid(cb8b82883d188e840b81ef3d02fef0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield attack (2).fbx using Guid(cb8b82883d188e840b81ef3d02fef0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f5423ce5fcb68ef3542a017b49742b') in 0.009280 seconds
+  Import took 0.013183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield turn.fbx
+  artifactKey: Guid(e7f252e667b50534fb508789badf0b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield turn.fbx using Guid(e7f252e667b50534fb508789badf0b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9721982e7fb29f561def3e4df060298b') in 0.008122 seconds
+  Import took 0.012060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield crouch idle.fbx
+  artifactKey: Guid(40ce02e0d860f8a4384b1978b8028a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield crouch idle.fbx using Guid(40ce02e0d860f8a4384b1978b8028a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12212b26a038b05ea0c38be1bfaa784b') in 0.007948 seconds
+  Import took 0.011856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield strafe.fbx
+  artifactKey: Guid(64e114b258e0f374b9a9bee15fecfa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield strafe.fbx using Guid(64e114b258e0f374b9a9bee15fecfa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1f74a8340a3156f69067b576309353') in 0.008401 seconds
+  Import took 0.012110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield attack (4).fbx
+  artifactKey: Guid(37b6a3a8547a5cd4f98d210111d2129c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield attack (4).fbx using Guid(37b6a3a8547a5cd4f98d210111d2129c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2345622c5e524ee95caad278e04930e') in 0.008372 seconds
+  Import took 0.012398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield impact (2).fbx
+  artifactKey: Guid(96543b68304cac3468af1d71bcd85444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield impact (2).fbx using Guid(96543b68304cac3468af1d71bcd85444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f90101c4f03d3cd7e15c719385256b') in 0.007371 seconds
+  Import took 0.010866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield crouching.fbx
+  artifactKey: Guid(f05d7200ddf19ca42a45fb9e5b96b3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield crouching.fbx using Guid(f05d7200ddf19ca42a45fb9e5b96b3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5763766d8d06cb5d4608cafb27be8003') in 0.009106 seconds
+  Import took 0.013829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield death (2).fbx
+  artifactKey: Guid(31b244f7726887f438545289d6fd00c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield death (2).fbx using Guid(31b244f7726887f438545289d6fd00c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d25121444c53a42d75c5c6fda0d0e6') in 0.009396 seconds
+  Import took 0.014508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield 180 turn.fbx
+  artifactKey: Guid(fd4d03504fe2da045ac7c3bf8dfc9f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield 180 turn.fbx using Guid(fd4d03504fe2da045ac7c3bf8dfc9f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc2f04affb09be72f24aae4a9f14071') in 0.008647 seconds
+  Import took 0.012889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield attack.fbx
+  artifactKey: Guid(3fa48627bdc1f4d40896492ff7f91e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield attack.fbx using Guid(3fa48627bdc1f4d40896492ff7f91e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621e801144c289ce2164af5ac5456623') in 0.009750 seconds
+  Import took 0.014900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield impact (3).fbx
+  artifactKey: Guid(6d5fe2c07c4f81347b4fb8d2a405f207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield impact (3).fbx using Guid(6d5fe2c07c4f81347b4fb8d2a405f207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1abb7c7f2827596eb5d44bb77304ce9') in 0.009996 seconds
+  Import took 0.013403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield idle (3).fbx
+  artifactKey: Guid(2fe409278f4423344be41f482f905d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield idle (3).fbx using Guid(2fe409278f4423344be41f482f905d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29922f2c78fb180cfb77e4718f83cf75') in 0.011347 seconds
+  Import took 0.015638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield slash (3).fbx
+  artifactKey: Guid(e53e4a895653b1546a67ab882bc041ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield slash (3).fbx using Guid(e53e4a895653b1546a67ab882bc041ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca2e2302b300ed82af587ecd8830a01') in 0.007924 seconds
+  Import took 0.012304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield slash.fbx
+  artifactKey: Guid(4831e51d07d01434a9767c5e91b2a464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield slash.fbx using Guid(4831e51d07d01434a9767c5e91b2a464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d13e57487d3154bca212208d1b61238') in 0.007055 seconds
+  Import took 0.010687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield run.fbx
+  artifactKey: Guid(ff39722c6e51da1449fe51444d6d38ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield run.fbx using Guid(ff39722c6e51da1449fe51444d6d38ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd510dcdcf501ed1bf10df9fba7cac934') in 0.008482 seconds
+  Import took 0.011806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield crouch block idle.fbx
+  artifactKey: Guid(b160cf2194c550c4caee0192a3c94e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield crouch block idle.fbx using Guid(b160cf2194c550c4caee0192a3c94e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334cefadb41321fb0a5421993927129d') in 0.009468 seconds
+  Import took 0.013671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield crouching (2).fbx
+  artifactKey: Guid(908b1940a014ecc4fb1a6923af01eecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield crouching (2).fbx using Guid(908b1940a014ecc4fb1a6923af01eecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86c6e9789ab7fe2e587fe63f5e6db30') in 0.008007 seconds
+  Import took 0.012846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield strafe (3).fbx
+  artifactKey: Guid(21386c9f515a90744b8e2c9f76b205ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield strafe (3).fbx using Guid(21386c9f515a90744b8e2c9f76b205ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747154683d0044c185b7d656d24c1cc7') in 0.008326 seconds
+  Import took 0.011611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield idle (2).fbx
+  artifactKey: Guid(66ea8f5f24e93034ca56496d63807a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield idle (2).fbx using Guid(66ea8f5f24e93034ca56496d63807a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18899d9f67188e03fcbde89795e7c5be') in 0.008433 seconds
+  Import took 0.012798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield idle.fbx
+  artifactKey: Guid(0fd8188b435a2f64fbb44b91196e9aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield idle.fbx using Guid(0fd8188b435a2f64fbb44b91196e9aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b7838cd0183266d2b6847ca891695d') in 0.010214 seconds
+  Import took 0.013906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield attack (3).fbx
+  artifactKey: Guid(55ff387fbade3114cbc1b4b5974dfd41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield attack (3).fbx using Guid(55ff387fbade3114cbc1b4b5974dfd41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7091ae07a6cd3a13bb96aec5af5d8a0d') in 0.009571 seconds
+  Import took 0.012709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield death.fbx
+  artifactKey: Guid(928b7192b6ef69b4cb4d236c46390ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield death.fbx using Guid(928b7192b6ef69b4cb4d236c46390ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245adb91c5152b9897dd4103a3a62928') in 0.007649 seconds
+  Import took 0.010859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield crouch block.fbx
+  artifactKey: Guid(52e4c35715f825f4580a958ff06c5b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield crouch block.fbx using Guid(52e4c35715f825f4580a958ff06c5b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a5ef2bd1fd5d4e24b108fd9d89835ca') in 0.006701 seconds
+  Import took 0.009794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield casting (2).fbx
+  artifactKey: Guid(47ea5d98aa8c4a849aec9106310026c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield casting (2).fbx using Guid(47ea5d98aa8c4a849aec9106310026c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd0d1dba671c5c285d0fde157bfa385') in 0.007321 seconds
+  Import took 0.010462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield walk (2).fbx
+  artifactKey: Guid(f20256b87f75e404da97ffb66d093a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield walk (2).fbx using Guid(f20256b87f75e404da97ffb66d093a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b66c9a16fb151d1b7eaf4833a095a1d3') in 0.008077 seconds
+  Import took 0.012195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield walk.fbx
+  artifactKey: Guid(06ecddf80773d7047b67421c49f71b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield walk.fbx using Guid(06ecddf80773d7047b67421c49f71b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6db8f5e4bb46f06f5f1763b730eccf') in 0.007154 seconds
+  Import took 0.010230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield power up.fbx
+  artifactKey: Guid(a7e1d36914bb1564fab059337745c607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield power up.fbx using Guid(a7e1d36914bb1564fab059337745c607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740cb53e3b71c52444040b65310960e9') in 0.008533 seconds
+  Import took 0.012117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield jump.fbx
+  artifactKey: Guid(fd6a2b05237469245b59faf825aaa7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield jump.fbx using Guid(fd6a2b05237469245b59faf825aaa7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63bff030e3a066c93b2938651a54c614') in 0.006749 seconds
+  Import took 0.010792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield block (2).fbx
+  artifactKey: Guid(a16563dfac393ae4f847b5a47bc46614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield block (2).fbx using Guid(a16563dfac393ae4f847b5a47bc46614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294086a2a56c2daaf811082cd0442054') in 0.007258 seconds
+  Import took 0.010782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield 180 turn (2).fbx
+  artifactKey: Guid(24683eb4ac8c61f40b1907939cbd72a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield 180 turn (2).fbx using Guid(24683eb4ac8c61f40b1907939cbd72a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94dbddc98849abf782eff6bf87975988') in 0.008789 seconds
+  Import took 0.012080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield crouching (3).fbx
+  artifactKey: Guid(f109730c643a4fe419ece01cac24f3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield crouching (3).fbx using Guid(f109730c643a4fe419ece01cac24f3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33601a553b667eca8d8ccec839c0afb9') in 0.007783 seconds
+  Import took 0.011370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield block.fbx
+  artifactKey: Guid(24e05d3440d968842a72ee4a714a82cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield block.fbx using Guid(24e05d3440d968842a72ee4a714a82cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '410fb8961df97006c3cc6d6a7f7f9cd2') in 0.007668 seconds
+  Import took 0.011749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000926 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield impact.fbx
+  artifactKey: Guid(c9f00cac6e4cd7342bb2211cd2f1beec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield impact.fbx using Guid(c9f00cac6e4cd7342bb2211cd2f1beec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752d1570d3b9166039fce244f7e301cb') in 0.007514 seconds
+  Import took 0.011511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield kick.fbx
+  artifactKey: Guid(ba917c36b57a3294bbb05eff453c389a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield kick.fbx using Guid(ba917c36b57a3294bbb05eff453c389a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '751dbc3e21a0bcbb7f2e58f426ded746') in 0.008070 seconds
+  Import took 0.012117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sheath sword 1.fbx
+  artifactKey: Guid(171b6e69ca9e37c44885bfbe76d852b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sheath sword 1.fbx using Guid(171b6e69ca9e37c44885bfbe76d852b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af8a2292bf9e6c143df7b47d6cc7f1c') in 0.008408 seconds
+  Import took 0.012169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sheath sword 2.fbx
+  artifactKey: Guid(8698d7f75042ef94f8b30ab9a4350e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sheath sword 2.fbx using Guid(8698d7f75042ef94f8b30ab9a4350e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a79b78f26a928b1760f15ef62dea5d') in 0.008538 seconds
+  Import took 0.012808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield block idle.fbx
+  artifactKey: Guid(98f6434611b446f498dd788df8b1a389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield block idle.fbx using Guid(98f6434611b446f498dd788df8b1a389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd5c46eb2692e2bfccf5f4a82bd682ff') in 0.006458 seconds
+  Import took 0.009798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Models/YBot/SwordAndShield/sword and shield strafe (2).fbx
+  artifactKey: Guid(9de9c1ecaed23584ca62acfda8a9a454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/sword and shield strafe (2).fbx using Guid(9de9c1ecaed23584ca62acfda8a9a454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a36b866f7d51e79f7d5ff7bec87a54') in 0.008132 seconds
+  Import took 0.011472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Models/YBot/SwordAndShield/draw sword 2.fbx
+  artifactKey: Guid(3051540db7796a14d8f85c2270900ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/YBot/SwordAndShield/draw sword 2.fbx using Guid(3051540db7796a14d8f85c2270900ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c901313e09150cc8c1fd5d7b8c81074') in 0.007634 seconds
+  Import took 0.011324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.608029 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005280 seconds
+  Import took 0.009366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004970 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.004287 seconds
+  Import took 0.008337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.490352 seconds.
+  path: Assets/Animator
+  artifactKey: Guid(3dc16ec689686a143953a37874b49394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animator using Guid(3dc16ec689686a143953a37874b49394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e88e1cb7011be50a859b4cb352ea14c') in 0.003868 seconds
+  Import took 0.007217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.124098 seconds.
+  path: Assets/Animator/Ybot Animator Controller.controller
+  artifactKey: Guid(adaedb9a0c835a44c8cbacd2e73fd95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animator/Ybot Animator Controller.controller using Guid(adaedb9a0c835a44c8cbacd2e73fd95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a139a7754ae4fc483f60118f11471439') in 0.010325 seconds
+  Import took 0.013901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.401579 seconds.
+  path: Assets/Animator/Actor.controller
+  artifactKey: Guid(adaedb9a0c835a44c8cbacd2e73fd95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animator/Actor.controller using Guid(adaedb9a0c835a44c8cbacd2e73fd95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abca82732ed9b51c0c5759b3fd7b9acf') in 0.003322 seconds
+  Import took 0.007048 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005053 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.056 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1885.
+Total: 2.019600 ms (FindLiveObjects: 0.137100 ms CreateObjectMapping: 0.038100 ms MarkObjects: 1.826300 ms  DeleteObjects: 0.016900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005255 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.176 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 2.128100 ms (FindLiveObjects: 0.205700 ms CreateObjectMapping: 0.045200 ms MarkObjects: 1.860200 ms  DeleteObjects: 0.016200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005108 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.037 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1891.
+Total: 1.953200 ms (FindLiveObjects: 0.159800 ms CreateObjectMapping: 0.038600 ms MarkObjects: 1.735200 ms  DeleteObjects: 0.018600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1894.
+Total: 2.294500 ms (FindLiveObjects: 0.142200 ms CreateObjectMapping: 0.043100 ms MarkObjects: 2.091800 ms  DeleteObjects: 0.016400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.288 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1897.
+Total: 2.174100 ms (FindLiveObjects: 0.145500 ms CreateObjectMapping: 0.042100 ms MarkObjects: 1.967600 ms  DeleteObjects: 0.018000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.611503 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f9f8ff149d06970fbc28a1a9a1c291b') in 0.004807 seconds
+  Import took 0.007341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030936 seconds.
+  path: Assets/PlayerInput.cs
+  artifactKey: Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerInput.cs using Guid(17ddb6d6888ebd74c926b8aff24bcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f9f8ff149d06970fbc28a1a9a1c291b') in 0.002461 seconds
+  Import took 0.005672 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007143 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.104 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1900.
+Total: 3.025900 ms (FindLiveObjects: 0.187600 ms CreateObjectMapping: 0.041500 ms MarkObjects: 2.752100 ms  DeleteObjects: 0.043300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
